@@ -1,4 +1,4 @@
-# Learn-C-from-beginning
+# Learn-Cplusplus
 
 https://github.com/WesleyKhoiVo/objoricpp </br>
 -[The algorithm](https://github.com/TheAlgorithms)
